@@ -16,5 +16,11 @@
         "key": "aman9090",
         "expirydate": "15-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "5c0219f74069301f",
+        "key": "shivam",
+        "expirydate": "10-10-2025",
+        "Allowoffline": false
     }
 ]
